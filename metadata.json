@@ -2,6 +2,6 @@
   "name": "eigenlayer-node21",
   "website": "https://www.example.com",
   "description": "test node",
-  "logo": "<logo>",
+  "logo": "https://www.example.com/logo.png",
   "twitter": ""
 }
