@@ -1,7 +1,7 @@
 {
   "name": "eigenlayer-node21",
-  "website": ""
-  "description": "test node"
-  "logo": ""
+  "website": "https://www.example.com",
+  "description": "test node",
+  "logo": "<logo>",
   "twitter": ""
 }
